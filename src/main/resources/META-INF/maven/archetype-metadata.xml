@@ -41,4 +41,8 @@ under the License.
             <directory>.</directory>
         </fileSet>
     </fileSets>
+
+    <requiredProperties>
+        <requiredProperty key="name"/>
+    </requiredProperties>
 </archetype-descriptor>
