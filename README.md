@@ -14,7 +14,7 @@ mvn archetype:generate                            \
 -Dname=<my-name> # <4>
 ```
 
-<1> This is the version of the archetype, normally 0.1 should be fine for a starter.
-<2> The groupId sets the groupId of the new service and normally should be *dev.unexist.showcase*.
-<3> And this is the artifactId of the new service.
+<1> This is the version of the archetype, normally 0.1 should be fine for a starter. \
+<2> The groupId sets the groupId of the new service and normally should be *dev.unexist.showcase*. \
+<3> And this is the artifactId of the new service.  \
 <4> Lastly, this is the name of the new service.
