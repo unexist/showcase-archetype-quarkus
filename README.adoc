@@ -1,10 +1,11 @@
-Quarkus showcase archetype
-====
+= Showcase for archetype based on quarkus
+
 This project contains an archetype for quarkus showcases.
 
-Create a new service
+== Create a new service
+
+[source,shell]
 ----
-```shell
 mvn archetype:generate                            \
 -DarchetypeGroupId=dev.unexist.showcase           \
 -DarchetypeArtifactId=quarkus-showcase-archetype  \
@@ -12,7 +13,7 @@ mvn archetype:generate                            \
 -DgroupId=<my-groupId>                            \ <2>
 -DartifactId=<my-artifactId>                      \ <3>
 -Dname=<my-name> # <4>
-```
+----
 
 <1> This is the version of the archetype, normally 0.1 should be fine for a starter. \
 <2> The groupId sets the groupId of the new service and normally should be *dev.unexist.showcase*. \
