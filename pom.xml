@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.unexist.showcase</groupId>
-    <artifactId>quarkus-showcase-archetype</artifactId>
+    <artifactId>showcase-archetype-quarkus</artifactId>
     <packaging>maven-archetype</packaging>
     <version>0.1</version>
 
