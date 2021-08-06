@@ -18,10 +18,5 @@
     </properties>
 
     <dependencies>
-        <!-- Quarkus -->
-        <dependency>
-            <groupId>io.quarkus</groupId>
-            <artifactId>quarkus-smallrye-health</artifactId>
-        </dependency>
     </dependencies>
 </project>
