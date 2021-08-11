@@ -26,8 +26,7 @@ public class DueDate {
     /**
      * Get start date
      *
-     * @return
-     *      Start date
+     * @return Start date
      **/
 
     public LocalDate getStart() {
@@ -37,8 +36,7 @@ public class DueDate {
     /**
      * Set start date
      *
-     * @param start
-     *          Date to set
+     * @param  start  Date to set
      **/
 
     public void setStart(LocalDate start) {
@@ -48,8 +46,7 @@ public class DueDate {
     /**
      * Get due date
      *
-     * @return
-     *          Due date
+     * @return Due date
      **/
 
     public LocalDate getDue() {
@@ -59,8 +56,7 @@ public class DueDate {
     /**
      * Set due date
      *
-     * @param due
-     *          Date to set
+     * @param  due  Date to set
      **/
 
     public void setDue(LocalDate due) {
